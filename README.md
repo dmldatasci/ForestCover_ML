@@ -19,6 +19,9 @@ Amazon AWS
 
 # Data in SQL:
 Put the name of the file or screen capture on the SQL table that holds the test and train dataset.
+# Machine Learning Accuracy Scores
+
+<img width="205" alt="machine_learning_scores" src="https://github.com/dmldatasci/ForestCover_ML/assets/117786548/ec0cf7da-2c2f-4783-93fe-c6df41c72704">
 
 # Visualization 1: Number of Trees by Cover Type
 ![predictions_cover_type_count](https://github.com/dmldatasci/ForestCover_ML/assets/86619869/3352ccf3-9316-484f-8d83-3e662e94158f)
