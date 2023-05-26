@@ -48,6 +48,9 @@ Daniel Carrasco, David Levy, Joel Pangilinan, Poonam Fandan, and Ra-Cee Lucas
 * Studied the dataset at https://archive.ics.uci.edu/ml/datasets/Covertype
 * Created two different Machine learning models using RandomForestClassifier and KNeighborsClassifier and compared the scores- Forest_cover_type_pred0.ipynb
 * Created Postgresql database, created the SQL table “coverage_type”. Worked on loading the  covertypes data that was available in csv (covtype.csv) into “coverage_type”table.  The scripts to create the table and data load can be found in pfandan create_table_Cover_type.sql, Load_CSV_to_Cover_type.sql
+* Code for multiple type of machine learning on Daniel_Machine_Learning in Daniel file
+* Saved csv prediction in predictions_csv file found in Daniel file
+* 2d Cluster Visualization in Cluster_Visualization found in Daniel file
 
 # References:
 UCI Machine Learning Repository - https://archive.ics.uci.edu/ml/datasets/Covertype
